@@ -3,7 +3,8 @@ ________________________________________________________________________________
 This is a github page for a group project from Universitas Indonesia's class of probability and stochastic for computer engineering major in 2018. 
 
 This project is a reinterpretation of a paper titled "Stochastic model of short-term prediction of stock prices and its profitability in the Czech stock market" by Milan Svoboda
-which abstract could be found [here]
+which abstract could be found [here]. But instead of using stock price that only could be found in Czech, we implement the formula to stock that could be found in Indonesia:
+WSKT, UNVR, and INCO.
 
 
 
